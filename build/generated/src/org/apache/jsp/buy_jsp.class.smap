@@ -1,0 +1,17 @@
+SMAP
+buy_jsp.java
+JSP
+*S JSP
+*F
++ 0 buy.jsp
+buy.jsp
++ 1 Header.jsp
+Blocks/Header.jsp
++ 2 Footer.jsp
+Blocks/Footer.jsp
+*L
+1:50
+1#1,116:51
+2#0,499:166
+1#2,58:664
+*E

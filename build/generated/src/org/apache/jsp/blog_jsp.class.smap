@@ -1,0 +1,17 @@
+SMAP
+blog_jsp.java
+JSP
+*S JSP
+*F
++ 0 blog.jsp
+blog.jsp
++ 1 Header.jsp
+Blocks/Header.jsp
++ 2 Footer.jsp
+Blocks/Footer.jsp
+*L
+1:50
+1#1,94:51
+2#0,326:144
+1#2,81:469
+*E
